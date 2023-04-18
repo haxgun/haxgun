@@ -1,4 +1,4 @@
-
+```python 
     class MAGICXcmd:
     
         def __init__(self):
@@ -19,3 +19,4 @@
     
     me = MAGICXcmd()
     me.say_hi()
+```
