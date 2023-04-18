@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**MAGICXcmd/MAGICXcmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    class MAGICXcmd:
+    
+        def __init__(self):
+            self.name = "Misha Gusev"
+            self.role = "Junior Python-developer"
+            self.languages= ["ru_RU", "en_US"]
+            self.code = ["Pascal", "Python", "HTML", "CSS"]
+            self.tools = ["Git"]
+            self.os = ["Windows", "Linux"]
+			self.learning = ["Django", "DRF", "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"]
+    
+		def social_links(self):
+			self.vk = "https://vk.com/haxgun"
+			self.telegram = "https://t.me/haxgun"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        def say_hi(self):
+            print("Hi! I hope you find something useful among these things :)")
+    
+    me = MAGICXcmd()
+    me.say_hi()
