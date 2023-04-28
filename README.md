@@ -11,7 +11,7 @@ class MAGICXcmd:
         self.learning = ["Django", "DRF", "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"]
 
     def social_links(self):
-        self.email = "haxgun@vk.com"
+        self.email = "misha@avion.space"
         self.website = "https://magicxcmd.github.io/"
         self.telegram = "https://t.me/haxgun"
         self.vk = "https://vk.com/haxgun"
