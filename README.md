@@ -4,7 +4,7 @@ class MAGICXcmd:
         self.name = "Misha Gusev"
         self.role = "Junior Python-developer"
         self.languages = ["ru_RU", "en_US"]
-        self.code = ["Pascal", "Python", "HTML", "CSS", "JS"]
+        self.code = ["Pascal", "Python", "HTML", "CSS", "SCSS", "JS"]
         self.tools = ["Git", "VSC", "PyCharm PRO"]
         self.os = ["Windows", "Linux", "macOS"]
         self.learning = ["Django", "DRF", "Flask", "React", "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"]
