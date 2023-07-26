@@ -8,6 +8,7 @@ class MAGICXcmd:
         self.tools = ["Git", "VSC", "PyCharm PRO"]
         self.os = ["Windows", "Linux", "macOS"]
         self.learning = ["Django", "DRF", "Flask", "React", "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"]
+        self.hobbies = ["🏀", "🏃🏻‍♂️", "💪🏻", "📚", "✨"]
 
     def social_links(self):
         self.email = "misha@avion.space"
