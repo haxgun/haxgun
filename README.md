@@ -1,5 +1,5 @@
 ```python 
-class starlitskies7:
+class haxgun:
     def __init__(self):
         self.name = "Misha Gusev"
         self.role = "Junior Python-developer"
@@ -12,14 +12,14 @@ class starlitskies7:
 
     def social_links(self):
         self.email = "misha@avion.space"
-        self.website = "https://starlitskies7.github.io/"
-        self.telegram = "https://t.me/starlitskies7"
-        self.vk = "https://vk.com/starlitskies7"
+        self.website = "https://haxgun.github.io/"
+        self.telegram = "https://t.me/haxgun"
+        self.vk = "https://vk.com/haxgun"
 
     def say_hi(self):
         print("Hi! I hope you find something useful among these things :)")
 
 
-me = starlitskies7()
+me = haxgun()
 me.say_hi()
 ```
