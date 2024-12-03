@@ -2,16 +2,19 @@
 class haxgun:
     def __init__(self):
         self.name = "Misha Gusev"
-        self.role = "Junior Python-developer"
+        self.role = "Full-stack Developer (with a focus on the backend)"
         self.languages = ["ru_RU", "en_US"]
-        self.code = ["Pascal", "Python", "HTML", "CSS", "SCSS", "JS"]
-        self.tools = ["Git", "GitHub", "VSC", "PyCharm PRO"]
+        self.code = ["Pascal", "Python", "HTML", "CSS", "SCSS", "SASS", "JavaScript", "TypeScript", "Go"]
+        self.tools = ["Git", "GitHub", "VSC", "PyCharm PRO", "Figma", "Photoshop", "Docker"]
         self.os = ["Windows", "Linux", "macOS"]
-        self.learning = ["Django", "DRF", "Flask", "React", "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"]
+        self.learning = [
+            "Django", "Django REST Framework (DRF)", "Flask", "FastAPI", "React", "Vue", 
+            "Docker", "SQL", "SQLite", "MySQL", "PostgreSQL"
+        ]
         self.hobbies = ["🏀", "🏃🏻‍♂️", "💪🏻", "📚", "✨"]
 
     def social_links(self):
-        self.email = "misha@avion.space"
+        self.email = "haxgun@vk.com"
         self.website = "https://haxgun.github.io/"
         self.telegram = "https://t.me/haxgun"
         self.vk = "https://vk.com/haxgun"
