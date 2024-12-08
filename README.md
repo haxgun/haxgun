@@ -15,7 +15,7 @@ class haxgun:
 
     def social_links(self):
         self.email = "haxgun@vk.com"
-        self.website = "https://haxgun.github.io/"
+        self.website = "https://haxgun.ru"
         self.telegram = "https://t.me/haxgun"
         self.vk = "https://vk.com/haxgun"
 
